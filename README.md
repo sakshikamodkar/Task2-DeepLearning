@@ -57,6 +57,5 @@ Task-2-Deep-Learning/
 ---
 
 ## Author
-**Pranav Mali**  
+**Kamodkar Sakshi**  
 Data Science Intern – CODTECH  
-Student at Sanjivani College of Engineering
